@@ -2,4 +2,4 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning a lot of different things, especially HTML, CSS and Python
 - 📫 How to reach me? StackOverflow or GitHub
-- Website: http://norway-yv.epizy.com/home.html
+- Website: http://norway-yv.epizy.com/website
