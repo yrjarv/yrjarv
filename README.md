@@ -7,3 +7,7 @@ Languages/frameworks I use/know:<br>
 
 I also experiment with the following frameworks:<br>
 - React
+
+Working on right now:<br>
+- yrjarv/IN1000 | Private repository for doing assignments belonging to the course IN1000 at ifi
+- yrjarv/IN1010 | Another private repository, this time for the course IN1010
