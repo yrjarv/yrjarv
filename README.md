@@ -1,5 +1,5 @@
 Hi!<br>
-I'm a student at WANG Videregående in Oslo, Norway - soon to be a student of Programming and System Architecture at the University of Oslo's Department of Informatics (Institutt for Informatikk, IFI)<br>
+I'm a student of Programming and System Architecture at the University of Oslo's Department of Informatics (Institutt for Informatikk, IFI)<br>
 Languages/frameworks I use/know:<br>
 - JavaScript
 - TypeScript
