@@ -8,10 +8,3 @@ In addition to a lot of commits to private repositories containing notes and ass
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cybernetisk&repo=internsystem-v2)](https://github.com/cybernetisk/internsystem-v2) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marticliment&repo=WingetUI)](https://github.com/marticliment/WingetUI)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marticliment&repo=ElevenClock)](https://github.com/marticliment/ElevenClock) 
-
-# Own projects #
-Some of my own projects that I am extra proud of come from assignments in the IT classes at WANG Upper Secondary School:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yrjarv&repo=pong)](https://github.com/yrjarv/pong)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yrjarv&repo=gardermoen)](https://github.com/yrjarv/gardermoen)
